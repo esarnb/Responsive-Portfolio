@@ -218,12 +218,18 @@ input[type=submit] {
 
 /*Instant desktop*/
 @media screen and (max-width: 980px) {
-
+  
 }
 
 /*Tablet*/
 @media screen and (max-width: 768px) { 
-  
+  nav {
+    width: 45%;
+  }
+
+  #main-container {
+    width: 100%;
+  }
 }
 
 
