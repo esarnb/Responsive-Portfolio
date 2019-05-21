@@ -1,13 +1,19 @@
 # Responsive-Portfolio
 
-Desktop view at 960px
+Desktop view at 960px 
+
 ![960px image](assets/images/git/960px.png)
 
+
 Tablet view at 768px
+
 ![768px image](assets/images/git/768px.png)
 
+
 Phone landscape view at 640px
+
 ![640px image](assets/images/git/640px.png)
+
 
 Using media queries in CSS to rearrange elements based on window size.
 
